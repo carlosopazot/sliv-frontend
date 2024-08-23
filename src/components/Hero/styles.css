@@ -1,12 +1,13 @@
 .hero {
   background-image: url('../../images/hero.png');
   background-size: cover;
+  background-position: center center;
   background: linear-gradient(rgba(146, 84, 222, 0.4) 0.03%, #391085 99.97%),
     url('../../images/hero.png');
   height: 480px;
   text-align: center;
   color: #fff;
-  padding-top: 8rem;
+  padding-top: 10rem;
 }
 
 .hero_container {
